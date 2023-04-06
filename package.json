@@ -1,0 +1,16 @@
+{
+  "name": "node-server-js",
+  "version": "1.0.0",
+  "description": "To log events",
+  "main": "index.js",
+  "scripts": {
+    "test": "nodemon server.js"
+  },
+  "author": "Josh Gibb",
+  "license": "ISC",
+  "dependencies": {
+    "date-fns": "^2.29.3",
+    "nodemon": "^2.0.22",
+    "uuid": "^9.0.0"
+  }
+}
